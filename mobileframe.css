@@ -21,6 +21,16 @@ h1 {
   font-weight:normal;
   text-align:center;
 }
+h2 {
+  font-size:1.25rem;
+  font-weight:normal;
+  text-align:center;
+}
+span {
+  display:block;
+  padding-top:0.5rem;
+  text-align:right;
+}
 input {
   border-radius:0.5rem;
   border-style:none;
